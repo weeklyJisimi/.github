@@ -1,6 +1,4 @@
-<div align="row">
-  ![Frame 18](https://github.com/user-attachments/assets/34e9f02e-3be5-45df-985a-60481928eaa3)
-</div>
+![Frame 18](https://github.com/user-attachments/assets/34e9f02e-3be5-45df-985a-60481928eaa3)
 # 안녕하세요! 진심이 입니다.
 
 ## 소개
